@@ -490,26 +490,27 @@
 			<CommonForm>ФормаПодбораМобильная</CommonForm>
 			<CommonForm>Звонок</CommonForm>
 			<CommonForm>ФормаВыбораПользователяСистемыВзаимодействия</CommonForm>
-			<Catalog>Регионы</Catalog>
 			<Catalog>Банки</Catalog>
-			<Catalog>Склады</Catalog>
+			<Catalog>Валюты</Catalog>
 			<Catalog>ВидыЦен</Catalog>
+			<Catalog>Встречи</Catalog>
 			<Catalog>ВходящиеПисьма</Catalog>
+			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Catalog>ЗначенияХарактеристик</Catalog>
+			<Catalog>ИсходящиеПисьма</Catalog>
 			<Catalog>Контрагенты</Catalog>
-			<Catalog>Товары</Catalog>
 			<Catalog>МобильныеУстройства</Catalog>
 			<Catalog>НастройкиТорговогоОборудования</Catalog>
-			<Catalog>ХранимыеФайлы</Catalog>
-			<Catalog>Валюты</Catalog>
+			<Catalog>Организации</Catalog>
+			<Catalog>Пользователи</Catalog>
 			<Catalog>ПочтовыеВложения</Catalog>
 			<Catalog>РасчетныеСчета</Catalog>
 			<Catalog>РасчетныеСчетаКонтрагентов</Catalog>
-			<Catalog>Организации</Catalog>
-			<Catalog>Пользователи</Catalog>
-			<Catalog>ИсходящиеПисьма</Catalog>
+			<Catalog>Регионы</Catalog>
+			<Catalog>Склады</Catalog>
+			<Catalog>Товары</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
-			<Catalog>Встречи</Catalog>
+			<Catalog>ХранимыеФайлы</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
