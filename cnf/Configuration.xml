@@ -461,6 +461,7 @@
 			<Constant>ЛогинСервисаПередачиPushУведомлений</Constant>
 			<Constant>МаркерДоступаHPK</Constant>
 			<Constant>МаркерДоступаWNS</Constant>
+			<Constant>ОсновнаяВалютаВзаиморасчетов</Constant>
 			<Constant>ОтметкаНаФотоснимкеДата</Constant>
 			<Constant>ОтметкаНаФотоснимкеТекст</Constant>
 			<Constant>ПарольIMAP</Constant>
