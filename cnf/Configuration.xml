@@ -438,7 +438,6 @@
 			<Constant>АдресIMAPСервера</Constant>
 			<Constant>АдресPOP3Сервера</Constant>
 			<Constant>АдресSMTPСервера</Constant>
-			<Constant>БазоваяЕдиницаИзмерения</Constant>
 			<Constant>ВалютаУчета</Constant>
 			<Constant>ВоспроизводитьТекстУведомления</Constant>
 			<Constant>ВыборПровайдераГеопозиционирования</Constant>
@@ -462,7 +461,6 @@
 			<Constant>ЛогинСервисаПередачиPushУведомлений</Constant>
 			<Constant>МаркерДоступаHPK</Constant>
 			<Constant>МаркерДоступаWNS</Constant>
-			<Constant>ОсновнаяВалютаВзаиморасчетов</Constant>
 			<Constant>ОтметкаНаФотоснимкеДата</Constant>
 			<Constant>ОтметкаНаФотоснимкеТекст</Constant>
 			<Constant>ПарольIMAP</Constant>
@@ -492,28 +490,26 @@
 			<CommonForm>ФормаПодбораМобильная</CommonForm>
 			<CommonForm>Звонок</CommonForm>
 			<CommonForm>ФормаВыбораПользователяСистемыВзаимодействия</CommonForm>
+			<Catalog>Регионы</Catalog>
 			<Catalog>Банки</Catalog>
-			<Catalog>Валюты</Catalog>
+			<Catalog>Склады</Catalog>
 			<Catalog>ВидыЦен</Catalog>
-			<Catalog>Встречи</Catalog>
 			<Catalog>ВходящиеПисьма</Catalog>
-			<Catalog>ДоговорыКонтрагентов</Catalog>
-			<Catalog>ЕдиницыИзмерения</Catalog>
 			<Catalog>ЗначенияХарактеристик</Catalog>
-			<Catalog>ИсходящиеПисьма</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Catalog>Товары</Catalog>
 			<Catalog>МобильныеУстройства</Catalog>
 			<Catalog>НастройкиТорговогоОборудования</Catalog>
-			<Catalog>Организации</Catalog>
-			<Catalog>Пользователи</Catalog>
+			<Catalog>ХранимыеФайлы</Catalog>
+			<Catalog>Валюты</Catalog>
 			<Catalog>ПочтовыеВложения</Catalog>
 			<Catalog>РасчетныеСчета</Catalog>
 			<Catalog>РасчетныеСчетаКонтрагентов</Catalog>
-			<Catalog>Регионы</Catalog>
-			<Catalog>Склады</Catalog>
-			<Catalog>Товары</Catalog>
+			<Catalog>Организации</Catalog>
+			<Catalog>Пользователи</Catalog>
+			<Catalog>ИсходящиеПисьма</Catalog>
 			<Catalog>ХранилищеВариантовОтчетов</Catalog>
-			<Catalog>ХранимыеФайлы</Catalog>
+			<Catalog>Встречи</Catalog>
 			<Document>Заказ</Document>
 			<Document>ОперацияПоУчетуТоваров</Document>
 			<Document>Оплата</Document>
