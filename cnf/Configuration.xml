@@ -458,6 +458,7 @@
 			<Constant>КлючПриложенияHPK</Constant>
 			<Constant>КлючПриложенияWNS</Constant>
 			<Constant>КодНовогоУзлаПланаОбмена</Constant>
+			<Constant>Константа1</Constant>
 			<Constant>ЛогинСервисаПередачиPushУведомлений</Constant>
 			<Constant>МаркерДоступаHPK</Constant>
 			<Constant>МаркерДоступаWNS</Constant>
