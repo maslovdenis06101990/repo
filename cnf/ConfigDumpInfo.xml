@@ -357,7 +357,7 @@
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows32.Template" id="a0478cfc-4d22-451f-b62a-66e247ce4c49.0" configVersion="608d4d31c3a19b4d95b387d4d690084900000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d" configVersion="e50158c4d76d2b40afdb79d03006d64b00000000"/>
 		<Metadata name="CommonTemplate.КомпонентаПечатиШтрихкодовWindows64.Template" id="87438695-fa9a-432e-b5d2-84cc06e9ff6d.0" configVersion="589c98b153119a498adeef17ce1b570400000000"/>
-		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="a02de8818010784cbb51de9b3764a11100000000"/>
+		<Metadata name="Configuration.ДемонстрационноеПриложение" id="a3a9949e-f1f0-4b3a-821f-a85a9fb2fb3c" configVersion="24dc7f604b32cc4e81f3bb39270f633400000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.ClientApplicationInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.b" configVersion="30160f9ecb907042a37474f67e1e0c7500000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.CommandInterface" id="71dad3e5-411e-4faa-9358-8eccdce47784.a" configVersion="02a5ba19f8fa814aa137cd4db607618800000000"/>
 		<Metadata name="Configuration.ДемонстрационноеПриложение.Help" id="71dad3e5-411e-4faa-9358-8eccdce47784.3" configVersion="1a46391bf3b12e4a85181298661b9b8300000000"/>
@@ -395,6 +395,7 @@
 		<Metadata name="Constant.КлючПриложенияHPK" id="1ef76cfb-4ce2-48fd-852b-7d9a56432b93" configVersion="5aa6bf6c024f004780639b97fec2892400000000"/>
 		<Metadata name="Constant.КлючПриложенияWNS" id="3a542011-cf88-4134-a779-373c4b0c3a28" configVersion="7153092bc3e6424dbf304717c634d19f00000000"/>
 		<Metadata name="Constant.КодНовогоУзлаПланаОбмена" id="59aa6f87-7971-4943-82ae-1728d4c8ee02" configVersion="987a5dca1e74424ea67ad6e9b2da0ab100000000"/>
+		<Metadata name="Constant.Константа1" id="7138098f-cf22-4db3-aeb0-a2f46faa079c" configVersion="6c08c248537cb34d93aa59d0ce8eae1300000000"/>
 		<Metadata name="Constant.ЛогинСервисаПередачиPushУведомлений" id="99d51309-7c77-4d18-9fc3-d3b9a3265779" configVersion="5945cc1520c82849986de6e0f97fbb5b00000000"/>
 		<Metadata name="Constant.МаркерДоступаHPK" id="0d36129d-aa51-4326-a593-922149eea0b6" configVersion="63e11843f8ddc340bb55f410638df34c00000000"/>
 		<Metadata name="Constant.МаркерДоступаWNS" id="00b9841f-ebf0-45ab-a136-9bcc2fc35480" configVersion="0635287ce7a562439bdabf0ad36b8aa100000000"/>
